@@ -38,6 +38,32 @@ To use Save My Soul project you need:
   
 # **[Instruction](https://save-my-soul-site-instruction.vercel.app/)**
 
+# **Technologies Used**
+
+**Android App**:
+- Kotlin
+- Jetpack Compose
+- Compose Navigation
+- Coroutines
+- Retrofit
+- OkHttp
+- Google Play Services
+- Dagger&Hilt
+- Glance
+
+**Rest Api**:
+ - Java
+ - Spring Boot
+ - Spring Web
+ - Web Socket
+ - Lombok
+ - Postgresql Driver
+ - Spring Data Jpa
+
+**Telegram Bot**:
+ - Python
+ - Aiogram
+
 ## Contributing
 I welcome contributions! Please open an issue or submit a pull request.
 
